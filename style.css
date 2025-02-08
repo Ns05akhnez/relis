@@ -5,5 +5,30 @@
 
 body{
     width: 100vh;
-    background-color: 1E1E1E;
+   
 }
+
+.container1{
+    width: 100vw;
+    height: 100vh;
+    color: blueviolet;
+}
+
+.container1-1{
+    width: 1253px;
+    height: 70px;
+    color: blue;
+}
+
+.container1-2{
+    width:742px;
+    height: 618px;
+    color:yellow;
+}
+
+.container1-3{
+    width: 998px;
+    height: 290px;
+    color:red;
+}
+
