@@ -8,27 +8,27 @@ body{
    
 }
 
+header{
+    width: 1200px;
+    height: 100px;
+    background-color: #8b6b6b;
+}
+
 .container1{
-    width: 100vw;
-    height: 100vh;
-    color: blueviolet;
+    width: 1200px;
+    height: 500px;
+    background-color: #a2ccca;
+    display: flex;
 }
 
-.container1-1{
-    width: 1253px;
-    height: 70px;
-    color: blue;
+.con1-1{
+    width: 800px;
+    height: 100%;
+    background-color: #869789;
 }
 
-.container1-2{
-    width:742px;
-    height: 618px;
-    color:yellow;
+.con1-2{
+    width: 320px;
+    height: 100%;
+    background-color: #d9f379;
 }
-
-.container1-3{
-    width: 998px;
-    height: 290px;
-    color:red;
-}
-
